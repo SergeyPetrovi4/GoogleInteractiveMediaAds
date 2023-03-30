@@ -15,7 +15,7 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(name: "GoogleInteractiveMediaAds",
-                      url: "https://tmpfiles.org/dl/1212639/googleinteractivemediaads.xcframework.zip",
+                      url: "https://tmpfiles.org/dl/1213307/googleinteractivemediaads.xcframework.zip",
                       checksum: "987a0ee7002e472c4ab8a29e1677504648ebeef0dcfe4a2efeb3edcb50d315f1")
     ]
 )
